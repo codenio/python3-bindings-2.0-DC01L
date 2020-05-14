@@ -15,7 +15,7 @@
     $ cd src/
     
     # install the bitscope-library_2.0 debian package
-    $ sudo apt-get install bitlib-library_2.0.FE26B_amd64.deb
+    $ sudo apt-get install ./bitscope-library_2.0.FE26B_amd64.deb
     
     # install bitlib using the python-binding script 
     $ sudo python3 setup-bitlib.py install
